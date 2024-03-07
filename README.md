@@ -1,8 +1,11 @@
 # Challenge-1
 link to webpage https://jamiect49.github.io/Challenge-1/
-This is my Challenge-1 assignment for bootcamp
+This is my Challenge-1 assignment for bootcamp.
 
-Here are the things i have changed or refined.
+I have been tasked with refactoring the code that was given.
+Here is what i did.
+
+Things i have changed or refined.
 1. Changed the html semantics for better structure.
 2. Refind most of the css code so it's not as confusing.
 3. alt attributed all images.
